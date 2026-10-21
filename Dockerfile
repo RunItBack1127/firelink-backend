@@ -1,6 +1,6 @@
 # UBI9 Python 3.12
 # Pinned to tag 1 digest as of 2026-09-22
-FROM registry.access.redhat.com/ubi9/python-312:1@sha256:d33ff6e6b73dc306762e32a09e44da992175644ea026012d58771418a18f5ab2
+FROM registry.access.redhat.com/ubi9/python-312:1@sha256:20b989190c0855ea9f565418aaee21c78e9aec3033ae5ab78e501882461fc956
 
 USER 0
 
